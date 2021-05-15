@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   const [todos, setTodos] = React.useState([
     {
-      text: "This is a sample todo",
+      text: "Notes your todo here",
       isComplete: false,
     },
   ]);
